@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <string name="tile_label">USDT price</string>
+    <string name="tile_description">USDT price in Toman</string>
+    <string name="complication_label">USDT (Toman)</string>
+</resources>
